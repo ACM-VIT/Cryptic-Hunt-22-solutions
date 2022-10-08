@@ -1,6 +1,6 @@
 ![ACM-HEADER](https://user-images.githubusercontent.com/14032427/92643737-e6252e00-f2ff-11ea-8a51-1f1b69caba9f.png)
 
-<h1 align="center"> Cryptic Hunt</h1>
+<h1 align="center"> Cryptic Hunt'22</h1>
 
 <p align="center"> 
 ACM-VIT's Hybrid Cryptic Hunt is an elaborate treasure hunt where our participants will be given questions to solve using skills from the cryptography and cybersecurity domains. Through the Hunt, the participants will get to explore both the world of cybersec and that of VIT, in search of the answers to your problems in the most unexpected places!

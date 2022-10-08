@@ -1,0 +1,13 @@
+To throw them off on the video there is a morse code text,
+plaintext: decodethis
+ciphertext: -.. . -.-. --- -.. . - .... .. ...
+
+plaintext: 12.97221537604567LA79.16809497211865LO
+
+ciphertext: .---- ..--- .-.-.- ----. --... ..--- ..--- .---- ..... ...-- --... -.... ----- ....- ..... -.... --... .-.. .- --... ----. .-.-.- .---- -.... ---.. ----- ----. ....- ----. --... ..--- .---- .---- ---.. -.... ..... .-.. ---
+
+link to tool that converts plaintext to ciphertext(and audio):
+https://morsecode.world/international/translator.html
+
+link to tool that converts audio-cipher to plaintext:
+https://morsecode.world/international/decoder/audio-decoder-adaptive.html

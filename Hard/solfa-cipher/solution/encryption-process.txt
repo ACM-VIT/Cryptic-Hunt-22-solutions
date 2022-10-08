@@ -1,0 +1,27 @@
+HILL CIPHER
+
+plaintext1 = GRAVITAS
+plaintext1 input as = GRAVITAS
+ciphertext1 = BALWZECE
+
+plaintext2 = HYBRID
+plaintext2 input as = HYBRID
+ciphertext2 = SZVHDM
+
+plaintext3 = HUNT
+plaintext3 input as = HUNT
+ciphertext3 = GBFX
+
+key matrix = 22 3 9 6
+cipher key matrix= VCIF
+
+
+SOLFA CIPHER
+plaintext = 
+	1. expecttheunexpected
+ciphertext=to_decode.midi
+solfa key = 
+	solfa-cipher-key.jpg
+	{ clef: treble
+	  tonic: G Major
+	  rhythym: 4/4 }

@@ -17,6 +17,12 @@ ACM-VIT's Hybrid Cryptic Hunt is an elaborate treasure hunt where our participan
 
 ---
 
+Check the solutions of various difficulty levels in their respective folders :
+* Easy
+* Medium
+* Hard
+---
+
 Visit us on https://cryptichunt.acmvit.in/
 
 ---

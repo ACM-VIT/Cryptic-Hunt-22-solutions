@@ -15,7 +15,11 @@ ACM-VIT's Hybrid Cryptic Hunt is an elaborate treasure hunt where our participan
     <!-- forks/stars/tech stack in the form of badges from https://shields.io/ -->
 </p>
 
+---
 
+Visit us on https://cryptichunt.acmvit.in/
+
+---
 
 
 
